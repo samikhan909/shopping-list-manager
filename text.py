@@ -1,0 +1,5 @@
+print("hi i am a developer ")
+print("hi i am a python coder")
+print("hi i am a python ")
+print("hi i  python coder")
+print ("may name is sami khan")
